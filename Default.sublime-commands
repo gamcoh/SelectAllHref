@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Select all the href in this page",
+        "command": "select_href"
+    }
+]
